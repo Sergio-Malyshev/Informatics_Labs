@@ -39,14 +39,14 @@ fi
 ```
 
 <p align="center">
-  <img src="photo_2026-03-10_23-51-22.jpg" alt="Демонстрируем скрипт" width="70%">
+  <img src="Screenshots_1/photo_2026-03-10_23-51-22.jpg" alt="Демонстрируем скрипт" width="70%">
   <br><br>
   <em>Демонстрируем скрипт</em>
 </p>
 
 
 <p align="center">
-  <img src="photo_2026-03-10_23-51-27.jpg" alt="="Демонстрируем работу скрипта" width="70%">
+  <img src="Screenshots_1/photo_2026-03-10_23-51-27.jpg" alt="="Демонстрируем работу скрипта" width="70%">
   <br><br>
   <em>Демонстрируем работу скрипта</em>
 </p>

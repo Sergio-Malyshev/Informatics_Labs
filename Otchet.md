@@ -21,7 +21,10 @@ sudo apt update
 sudo apt upgrade -y
 sudo apt install gedit -y
 ```
-![Создаем скрипт](Screenshots_1/photo_2026-03-10_23-51-07.jpg)
+
+<p align="center">
+  <img src="Screenshots_1/photo_2026-03-10_23-51-07.jpg" alt="Создаем скрипт" width="70%">
+</p>
 
 ### 3. Создание скрипта
 ```
@@ -31,5 +34,10 @@ else
     echo "Welcome, $*"
 fi
 ```
-![Демонстрируем скрипт](Screenshots_1/photo_2026-03-10_23-51-22.jpg)
-![Демонстрируем работу скрипта](Screenshots_1/photo_2026-03-10_23-51-27.jpg)
+<p align="center">
+  <img src="Screenshots_1/photo_2026-03-10_23-51-22.jpg" alt="Демонстрируем скрипт" width="70%">
+</p>
+
+<p align="center">
+  <img src="Screenshots_1/photo_2026-03-10_23-51-22.jpg" alt="Демонстрируем работу скрипта" width="70%">
+</p>

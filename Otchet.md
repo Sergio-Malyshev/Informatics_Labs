@@ -26,7 +26,7 @@ sudo apt install gedit -y
 <p align="center">
   <img src="Screenshots_1/photo_2026-03-10_23-51-07.jpg" alt="Создаем скрипт" width="70%">
   <br><br>
-  <em>Демонстрируем работу скрипта</em>
+  <em>Создаем скрипт</em>
 </p>
 
 ### 3. Создание скрипта
@@ -39,9 +39,9 @@ fi
 ```
 
 <p align="center">
-  <img src="Screenshots_1/photo_2026-03-10_23-51-22.jpg" alt="Демонстрируем скрипт" width="70%">
+  <img src="photo_2026-03-10_23-51-22.jpg" alt="Демонстрируем скрипт" width="70%">
   <br><br>
-  <em>Демонстрируем работу скрипта</em>
+  <em>Демонстрируем скрипт</em>
 </p>
 
 
